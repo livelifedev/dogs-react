@@ -1,0 +1,73 @@
+ section {
+  margin-top: 5px;
+  margin-bottom: 5px;
+  margin-right: 5px;
+  margin-left: 5px;
+}
+
+
+
+
+
+article.message.is-primary.is-medium.quote {
+  height: 100%;
+}
+
+article.message.is-info.is-medium.quote {
+  height: 100%;
+}
+
+
+
+
+div.message-header.listheader {
+  height: 18em;
+}
+
+
+
+
+
+div.message.is-primary.is-medium.quote {
+  height: 100%;
+}
+
+
+
+div.message-header.listheader.color {
+  background-color: #FAFAD2;
+}
+
+
+div.message.is-info.message-header.color {
+  background-color: #FAFAD2;
+}
+
+
+
+
+
+p.title.has-text-centered.fontcolor {
+  color: #8B0000;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
